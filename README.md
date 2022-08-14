@@ -2,19 +2,19 @@
 
 Olá, eu sou o Mateus Lima
 
-## Meus hobbies
+## My hobbies
 
-- Ler
-- Jogar videogame
-- Assistir séries
+- Read
+- Play Games
+- Watch series
 - Small talk
 
-## Atualmente estudando
+## Studying
 
 - Git e Github
 - JavaScript
 
-## Meus contatos
+## Social Medias
 
 - Twitter @mateuscto
 - Github @MateusCTO
