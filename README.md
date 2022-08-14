@@ -1,6 +1,6 @@
-# Bem Vindo(a) ao meu perfil!
+# Wellcome to my profile!
 
-Olá, eu sou o Mateus Lima
+Hello, my name is Mateus Lima!
 
 ## My hobbies
 
