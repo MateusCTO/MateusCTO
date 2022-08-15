@@ -1,6 +1,8 @@
 # Wellcome to my profile!
 
-Hello, my name is Mateus Lima!
+Hello, my name is Mateus Lima, student at Staart!
+
+![20220814_204647](https://user-images.githubusercontent.com/107226870/184560731-85516f64-ff01-41e6-86bf-6b66a25ac72d.jpg)
 
 ## My hobbies
 
@@ -11,12 +13,12 @@ Hello, my name is Mateus Lima!
 
 ## Studying
 
-- Git e Github
+- Git and Github
 - JavaScript
 
 ## Social Medias
 
 - Twitter @mateuscto
 - Github @MateusCTO
-- Instagram @mateus.cto
+- LinkedIn https://www.linkedin.com/in/mateusf-lima/
 - Email farias.mateus@gmail.com
