@@ -1,6 +1,6 @@
 # Wellcome to my profile!
 
-Hello, my name is Mateus Lima, student at Staart!
+Hello, my name is Mateus Lima, dev in formation at OneBitCode!
 
 ![20220814_204647](https://user-images.githubusercontent.com/107226870/184560731-85516f64-ff01-41e6-86bf-6b66a25ac72d.jpg)
 
@@ -10,6 +10,11 @@ Hello, my name is Mateus Lima, student at Staart!
 - Play Games
 - Watch series
 - Small talk
+
+## Technologies
+
+- HTML5
+- CSS3
 
 ## Studying
 
