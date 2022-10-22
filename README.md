@@ -1,4 +1,4 @@
-## Wellcome to my Profile!
+## Wellcome to my profile!
 
 Hello, my name is Mateus Lima, dev in formation at OneBitCode!
 
