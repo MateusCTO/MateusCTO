@@ -2,7 +2,7 @@
 
 #### Hello, my name is Mateus Lima, dev in formation at OneBitCode!
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://beacons.ai/mateuscto">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mateuscto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscto&layout=compact&langs_count=7&theme=tokyonight"/>
