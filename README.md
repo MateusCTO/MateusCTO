@@ -1,7 +1,4 @@
-## Wellcome to my profile!
-
-Hello, my name is Mateus Lima, dev in formation at OneBitCode!
-
+## Hello, my name is Mateus Lima, dev in formation at OneBitCode!
 <div align="center">
   <a href="https://beacons.ai/mateuscto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
