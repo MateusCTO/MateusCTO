@@ -1,6 +1,6 @@
 ## Wellcome to my profile!
 
-#### Hello, my name is Mateus Lima, dev in formation at OneBitCode!
+#### Hello, my name is Mateus Lima, dev in formation!
 
 <div align="center">
   <a href="https://beacons.ai/mateuscto">
