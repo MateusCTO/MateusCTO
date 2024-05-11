@@ -1,4 +1,4 @@
-## Wellcome to my profile!
+## Welcome to my profile!
 
 #### Hello, my name is Mateus Lima, Full-Stack Web Developer!
 
